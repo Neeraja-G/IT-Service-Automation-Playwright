@@ -2,7 +2,7 @@ import { expect, test } from "@playwright/test";
 import { MSTeamsWeb } from "../../core/src";
 import { URLS } from "../../utils/url.util";
 import { TEST_DATA } from "../../utils/testdata.util";
-import { MSTeamsPage } from "../../pages/lmsteams--web.page";
+import { MSTeamsPage } from "../../pages/msteams--web.page";
 
 test.describe("Teams Web Tests", () => {
 
