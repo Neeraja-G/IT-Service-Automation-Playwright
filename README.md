@@ -1,1 +1,1 @@
-# IT-Service-Auromation-Playwright
+# IT-Service-Automation-Playwright
